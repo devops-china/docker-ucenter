@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.gitignore
+.idea/compiler.xml
+.idea/copyright/
+.idea/docker-ucenter.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+UCenter_1.6.0_SC_UTF8/
